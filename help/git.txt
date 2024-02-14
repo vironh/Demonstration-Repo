@@ -1,0 +1,15 @@
+Install git
+Go to your file in vs code and select > terminal > new terminal
+Set up version: Virons-MacBook-Pro:Coding Practice vironmac$
+                After the above type in:  git --version   
+                Press enter
+Set up username: Virons-MacBook-Pro:Coding Practice vironmac$
+                After the above type in: git config --global user.name "vironh"
+                Press enter
+Set up email address: Virons-MacBook-Pro:Coding Practice vironmac$
+                After the above type in: git config --global user.email "viron.hattingh@gmail.com"
+                Press enter
+You can check: Virons-MacBook-Pro:Coding Practice vironmac$
+                After the above type in: git config --global --list
+                Press enter
+                

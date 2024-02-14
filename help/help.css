@@ -1,0 +1,34 @@
+/* The are three ways to call items in css.
+1. Target by item name. Here you simply use the tem name 
+from your html file. This will target ALL items with
+that name. Example: */
+h3 {
+    /* This will change the styles
+    of all h3 elements */
+}
+
+/* 2. Target by class. You can assign a class to any
+item in html by typing class = "Insert any chosen name"
+You can assign the same class to numerous items.
+Then target that item as follows: */
+.circle-images {
+
+}
+
+/* 3. Target by id. Similar to class, you can assign
+an id to any item in html by typing: id= " insert any name"
+An id applies to only ONE item in html.
+Then target it as follows: */
+#specific-id-item {
+
+}
+
+/* For all of the above you can make adjustments in terms
+of style to the item between the {} brackets. 
+This can include color, size, height, width, text,
+background color, rounded sides etc. */
+
+
+
+
+/* awdawdygb */
